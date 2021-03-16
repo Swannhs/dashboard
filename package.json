@@ -10,8 +10,11 @@
     "gulp-append-prepend": "^1.0.8",
     "node-sass": "^5.0.0",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.5.2",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3",
     "web-vitals": "^1.1.1"
   },
   "scripts": {
@@ -39,6 +42,8 @@
     ]
   },
   "devDependencies": {
-    "gulp-react": "^4.0.0"
+    "gulp-react": "^4.0.0",
+    "react-router-dom": "^5.2.0",
+    "universal-cookie": "^4.0.4"
   }
 }

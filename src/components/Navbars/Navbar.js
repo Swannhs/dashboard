@@ -139,33 +139,6 @@ function Header() {
                                 <span className="no-icon">Account</span>
                             </Nav.Link>
                         </Nav.Item>
-                        {/*<Dropdown as={Nav.Item}>*/}
-                        {/*  <Dropdown.Toggle*/}
-                        {/*    aria-expanded={false}*/}
-                        {/*    aria-haspopup={true}*/}
-                        {/*    as={Nav.Link}*/}
-                        {/*    data-toggle="dropdown"*/}
-                        {/*    id="navbarDropdownMenuLink"*/}
-                        {/*    variant="default"*/}
-                        {/*    className="m-0"*/}
-                        {/*  >*/}
-                        {/*    <span className="no-icon">CreateUser</span>*/}
-                        {/*  </Dropdown.Toggle>*/}
-                        {/*  <Dropdown.Menu aria-labelledby="navbarDropdownMenuLink">*/}
-                        {/*    <Dropdown.Item*/}
-                        {/*      href="#pablo"*/}
-                        {/*      onClick={(e) => e.preventDefault()}*/}
-                        {/*    >*/}
-                        {/*      Reseller*/}
-                        {/*    </Dropdown.Item>*/}
-                        {/*    <Dropdown.Item*/}
-                        {/*      href="#pablo"*/}
-                        {/*      onClick={(e) => e.preventDefault()}*/}
-                        {/*    >*/}
-                        {/*      User*/}
-                        {/*    </Dropdown.Item>*/}
-                        {/*  </Dropdown.Menu>*/}
-                        {/*</Dropdown>*/}
                         <Nav.Item>
                             <Nav.Link
                                 className="m-0"
